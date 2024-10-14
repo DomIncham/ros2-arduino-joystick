@@ -1,0 +1,7 @@
+Metadata-Version: 2.1
+Name: mecanum-joy-control
+Version: 0.0.1
+Summary: Mecanum wheel control using ROS2 Joy and Arduino
+Maintainer: jacknipat
+Maintainer-email: jacknipat@todo.todo
+License: MIT

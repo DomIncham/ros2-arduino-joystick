@@ -1,0 +1,37 @@
+[0.628s] Invoking command in '/home/jacknipat/mecanum_joy_control': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/jacknipat/mecanum_joy_control/build/mecanum_joy_control/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/jacknipat/mecanum_joy_control/install/mecanum_joy_control/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base build/mecanum_joy_control build --build-base /home/jacknipat/mecanum_joy_control/build/mecanum_joy_control/build install --record /home/jacknipat/mecanum_joy_control/build/mecanum_joy_control/install.log --single-version-externally-managed install_data
+[0.820s] running egg_info
+[0.820s] creating build/mecanum_joy_control/mecanum_joy_control.egg-info
+[0.834s] writing build/mecanum_joy_control/mecanum_joy_control.egg-info/PKG-INFO
+[0.834s] writing dependency_links to build/mecanum_joy_control/mecanum_joy_control.egg-info/dependency_links.txt
+[0.834s] writing entry points to build/mecanum_joy_control/mecanum_joy_control.egg-info/entry_points.txt
+[0.834s] writing requirements to build/mecanum_joy_control/mecanum_joy_control.egg-info/requires.txt
+[0.834s] writing top-level names to build/mecanum_joy_control/mecanum_joy_control.egg-info/top_level.txt
+[0.834s] writing manifest file 'build/mecanum_joy_control/mecanum_joy_control.egg-info/SOURCES.txt'
+[0.862s] reading manifest file 'build/mecanum_joy_control/mecanum_joy_control.egg-info/SOURCES.txt'
+[0.863s] writing manifest file 'build/mecanum_joy_control/mecanum_joy_control.egg-info/SOURCES.txt'
+[0.863s] running build
+[0.863s] running build_py
+[0.863s] creating /home/jacknipat/mecanum_joy_control/build/mecanum_joy_control/build
+[0.863s] creating /home/jacknipat/mecanum_joy_control/build/mecanum_joy_control/build/lib
+[0.863s] creating /home/jacknipat/mecanum_joy_control/build/mecanum_joy_control/build/lib/mecanum_joy_control
+[0.863s] copying mecanum_joy_control/__init__.py -> /home/jacknipat/mecanum_joy_control/build/mecanum_joy_control/build/lib/mecanum_joy_control
+[0.863s] copying mecanum_joy_control/joy_arduino_interface.py -> /home/jacknipat/mecanum_joy_control/build/mecanum_joy_control/build/lib/mecanum_joy_control
+[0.863s] running install
+[0.868s] running install_lib
+[0.882s] creating /home/jacknipat/mecanum_joy_control/install/mecanum_joy_control/lib/python3.12/site-packages/mecanum_joy_control
+[0.882s] copying /home/jacknipat/mecanum_joy_control/build/mecanum_joy_control/build/lib/mecanum_joy_control/__init__.py -> /home/jacknipat/mecanum_joy_control/install/mecanum_joy_control/lib/python3.12/site-packages/mecanum_joy_control
+[0.882s] copying /home/jacknipat/mecanum_joy_control/build/mecanum_joy_control/build/lib/mecanum_joy_control/joy_arduino_interface.py -> /home/jacknipat/mecanum_joy_control/install/mecanum_joy_control/lib/python3.12/site-packages/mecanum_joy_control
+[0.882s] byte-compiling /home/jacknipat/mecanum_joy_control/install/mecanum_joy_control/lib/python3.12/site-packages/mecanum_joy_control/__init__.py to __init__.cpython-312.pyc
+[0.883s] byte-compiling /home/jacknipat/mecanum_joy_control/install/mecanum_joy_control/lib/python3.12/site-packages/mecanum_joy_control/joy_arduino_interface.py to joy_arduino_interface.cpython-312.pyc
+[0.883s] running install_data
+[0.883s] creating /home/jacknipat/mecanum_joy_control/install/mecanum_joy_control/share/ament_index
+[0.883s] creating /home/jacknipat/mecanum_joy_control/install/mecanum_joy_control/share/ament_index/resource_index
+[0.883s] creating /home/jacknipat/mecanum_joy_control/install/mecanum_joy_control/share/ament_index/resource_index/packages
+[0.883s] copying resource/mecanum_joy_control -> /home/jacknipat/mecanum_joy_control/install/mecanum_joy_control/share/ament_index/resource_index/packages
+[0.884s] copying package.xml -> /home/jacknipat/mecanum_joy_control/install/mecanum_joy_control/share/mecanum_joy_control
+[0.884s] running install_egg_info
+[0.899s] Copying build/mecanum_joy_control/mecanum_joy_control.egg-info to /home/jacknipat/mecanum_joy_control/install/mecanum_joy_control/lib/python3.12/site-packages/mecanum_joy_control-0.0.1-py3.12.egg-info
+[0.900s] running install_scripts
+[0.995s] Installing joy_arduino_interface script to /home/jacknipat/mecanum_joy_control/install/mecanum_joy_control/lib/mecanum_joy_control
+[0.996s] writing list of installed files to '/home/jacknipat/mecanum_joy_control/build/mecanum_joy_control/install.log'
+[1.023s] Invoked command in '/home/jacknipat/mecanum_joy_control' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/jacknipat/mecanum_joy_control/build/mecanum_joy_control/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/jacknipat/mecanum_joy_control/install/mecanum_joy_control/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base build/mecanum_joy_control build --build-base /home/jacknipat/mecanum_joy_control/build/mecanum_joy_control/build install --record /home/jacknipat/mecanum_joy_control/build/mecanum_joy_control/install.log --single-version-externally-managed install_data

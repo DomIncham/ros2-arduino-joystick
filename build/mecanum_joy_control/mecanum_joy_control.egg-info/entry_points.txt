@@ -1,0 +1,2 @@
+[console_scripts]
+joy_arduino_interface = mecanum_joy_control.joy_arduino_interface:main
